@@ -1,5 +1,8 @@
-public class holamon {
+public class Classe {
     public static void main(String[] args) {
-        System.out.println("Hola mon");
+        printHola();
+    }
+    public static void printHola(){
+        System.out.println("Hola món!");
     }
 }
