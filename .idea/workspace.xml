@@ -12,6 +12,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="holamon.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/holamon.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -19,7 +20,29 @@
               <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding>
                 <marker date="1508863519308" expanded="true" signature="170:176" ph=" }" />
+=======
+      <file leaf-file-name="holamon.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/holamon.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding>
+                <element signature="e#66#67#0" expanded="true" />
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#148#149#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+>>>>>>> testeo
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hola.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hola.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -45,14 +68,15 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/holamon.java" />
+        <option value="$PROJECT_DIR$/src/hola.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="65" />
-    <option name="y" value="548" />
-    <option name="width" value="1205" />
-    <option name="height" value="914" />
+    <option name="y" value="24" />
+    <option name="width" value="1215" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -103,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.hola">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -185,6 +209,20 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="hola" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="hola" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="git" />
+      <envs />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -235,7 +273,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/holamon.java</url>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -244,7 +290,14 @@
         <state relative-caret-position="36">
           <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding>
+<<<<<<< HEAD
             <marker date="1508863519308" expanded="true" signature="170:176" ph=" }" />
+=======
+            <element signature="e#66#67#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+>>>>>>> testeo
           </folding>
         </state>
       </provider>
@@ -261,6 +314,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
           <folding>
             <marker date="1508863519308" expanded="true" signature="170:176" ph=" }" />
           </folding>
@@ -291,7 +345,35 @@
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding>
             <marker date="1508863519308" expanded="true" signature="170:176" ph=" }" />
+=======
+          <folding>
+            <element signature="e#66#67#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+>>>>>>> testeo
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/holamon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#66#67#0" expanded="true" />
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="41" lean-forward="false" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
